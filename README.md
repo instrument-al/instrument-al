@@ -1,4 +1,4 @@
-I'm Al. I love this. 
+Al.
 
 <!---
 instrument-al/instrument-al is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
